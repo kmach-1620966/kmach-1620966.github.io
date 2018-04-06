@@ -1,0 +1,12 @@
+head {
+    background-color: powderblue;
+}
+p {
+    color: red;
+    float: right;
+    border-radius: 50px / 15px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
